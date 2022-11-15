@@ -10,4 +10,4 @@ namespace authsystem.ASP.NET_AUTHSYSTEM
 
         public string? Summary { get; set; }
     }
-}
+} 
